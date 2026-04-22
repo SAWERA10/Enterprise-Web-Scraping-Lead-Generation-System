@@ -117,4 +117,4 @@ Sawera Babar
 ## Final Note
 
 This project demonstrates a real-world, production-ready web scraping system suitable for freelance work and business applications.
-⭐ If you like this project, consider giving it a star!
+If you like this project, consider giving it a ⭐.
